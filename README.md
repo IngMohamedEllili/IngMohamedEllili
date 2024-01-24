@@ -1,7 +1,26 @@
+<div align="center">
+
+### Visitors
+
+![Visitor Count](https://profile-counter.glitch.me/{IngMohamedEllili}/count.svg)
+
 ### Hi there 👋
+</div>
+
+---
+
+<div align="center">
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=IngMohamedEllili&show_icons=true&theme=tokyonight)
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IngMohamedEllili&hide=html,css&theme=tokyonight)
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IngMohamedEllili&theme=tokyonight)
+
+</div>
 
 <!--
-**IngMohamedEllili/IngMohamedEllili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**juandav/juandav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
